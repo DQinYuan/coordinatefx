@@ -1,6 +1,6 @@
 Experience difference between `layoutX` and `translateX`:
 
-![Screenshot](./img/run.png)
+![Screenshot](./img/run.gif)
 
 
  - layout coordinate: coordinate defined by parent layout (relative to parent layout)
